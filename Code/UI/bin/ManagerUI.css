@@ -1,0 +1,10 @@
+.custom-menu-button {
+    -fx-background-color: #AAFDFF;
+    -fx-text-fill: black;
+    -fx-border: none; 
+}
+
+.custom-menu-button:hover {
+    -fx-background-color: lightblue;
+}
+
